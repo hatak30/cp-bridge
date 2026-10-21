@@ -7,6 +7,13 @@ mirrors your phone** next to Android Auto — e.g. a second navigation app besid
 
 *(The app installs on your phone as "CarPlay Bridge".)*
 
+## ⬇️ Download
+
+[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/hatak30/cp-bridge/releases/latest)
+
+**[Download the latest `.apk`](https://github.com/hatak30/cp-bridge/releases/latest)** — then open it on the
+phone and allow installing from unknown sources. (All versions are on the [Releases](../../releases) page.)
+
 ▶ **Watch the feature walkthrough:**
 
 [![Feature walkthrough](https://img.youtube.com/vi/lDGdC0X3Dlo/hqdefault.jpg)](https://www.youtube.com/watch?v=lDGdC0X3Dlo)
@@ -34,7 +41,9 @@ mirrors your phone** next to Android Auto — e.g. a second navigation app besid
 
 ## Two modes
 
-At the top of the app you choose what shows on the car's screen:
+At the top of the app you choose what shows on the car's screen — the switch highlighted here:
+
+<p><img src="docs/modes.png" width="260" alt="Mode switch: Android Auto / Mirror phone"></p>
 
 - **Android Auto** — runs **Google Android Auto** on the car display: Maps, media, the Assistant, with car
   touch, audio, the microphone and the voice button — and, optionally, the **phone panel** (your phone's
@@ -155,6 +164,26 @@ it's stored only on your phone (its private key in the phone's secure hardware, 
 
 ---
 
+## Phone panel — your phone *inside* Android Auto
+
+In **Android Auto** mode you can split the car screen and **mirror your phone in a side panel next to Android
+Auto**. That gives you a second app on the car display at the same time — another navigation app, a dashcam
+view, OBD gauges, anything running on your phone — and you can touch it right there on the car screen.
+
+<p><img src="docs/04-panel.png" width="260" alt="Phone panel configuration: split size, side, screen capture and touch"></p>
+
+To set it up (in **Android Auto** mode):
+
+1. Turn on the **Phone panel** switch.
+2. **Drag the border** in the preview to set the split (e.g. 80% Android Auto / 20% phone), and pick which
+   **Side** the panel sits on (Left / Right).
+3. If you want to tap the phone app on the car screen, turn on **Touch in the panel** — it opens Android's
+   accessibility settings; enable **"CarPlay Bridge car touch"**.
+4. Keep the app you want to show **open on the phone with the screen on**. When you press **Start**, allow
+   **screen capture** and choose **"Entire screen"** when Android asks what to share.
+
+---
+
 ## Auto‑start in the car (optional)
 
 If you'd rather not press **Start** every time, turn on **Auto‑start in the car** (Android 13+). The app
@@ -175,10 +204,8 @@ will then start a session by itself when your car connects over Bluetooth.
 
 ## Options
 
-- **Phone panel** (Android Auto mode): **augment Android Auto with a side strip that mirrors your phone** —
-  see a second app (e.g. another navigation app, a dashcam or OBD view) right next to Android Auto on the car
-  screen, and touch it there. Off by default; you set the split in the app. Needs screen‑capture permission
-  plus the "CarPlay Bridge car touch" accessibility service.
+- **Phone panel** (Android Auto mode): mirror your phone in a side strip next to Android Auto — see
+  *"Phone panel — your phone inside Android Auto"* above.
 - **Mirror mode**: show the phone's screen on the car instead of Android Auto. Needs the accessibility
   **"CarPlay Bridge car touch"** service (enable it in Android Settings; the app's button opens the page).
 
