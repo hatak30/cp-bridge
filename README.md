@@ -7,12 +7,16 @@ mirrors your phone** next to Android Auto — e.g. a second navigation app besid
 
 *(The app installs on your phone as "CarPlay Bridge".)*
 
-## ⬇️ Download
+## ⬇️ Download  ·  💬 Get help
 
 [![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/hatak30/cp-bridge/releases/latest)
+[![Join the Discord](https://img.shields.io/badge/Discord-join%20for%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WJVFjbyq3j)
 
 **[Download the latest `.apk`](https://github.com/hatak30/cp-bridge/releases/latest)** — then open it on the
 phone and allow installing from unknown sources. (All versions are on the [Releases](../../releases) page.)
+
+**Need a hand, or want to check if your car works?** Join the **[Discord](https://discord.gg/WJVFjbyq3j)** —
+happy to help you get set up.
 
 ▶ **Watch the feature walkthrough:**
 
@@ -222,6 +226,9 @@ will then start a session by itself when your car connects over Bluetooth.
   comes with it). If you cleared app data or reinstalled, request a fresh license for the new enrollment code.
 - **Screen stutters** — leave Bluetooth discoverability off during a drive (the app already does this once
   paired).
+
+**Still stuck?** Ask on the **[Discord](https://discord.gg/WJVFjbyq3j)** — include your car model and what
+step it fails at.
 
 ---
 
