@@ -228,10 +228,9 @@ will then start a session by itself when your car connects over Bluetooth.
 ## How this differs from BMW's built‑in MirrorLink
 
 iDrive 6 / NBT Evo has its own Android mirroring — **MirrorLink** — but it only works with MirrorLink‑certified
-apps (a tiny, now‑abandoned set that today's phones mostly dropped), and any control from the car needs a
-touchscreen the **i8 doesn't have**. CP Bridge instead rides the car's **CarPlay** connection and handles
-input itself, so you get full **Android Auto** (or any app mirrored), controlled with the rotary iDrive
-controller on the i8 — and touch on touchscreen‑equipped cars.
+apps, a tiny, now‑abandoned set that today's phones mostly dropped. CP Bridge instead rides the car's
+**CarPlay** connection and handles input itself, so you get full **Android Auto** (or any app mirrored), with
+**touch on the car's screen** (and the rotary iDrive controller) — not just a short list of certified apps.
 
 ---
 
