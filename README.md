@@ -32,6 +32,22 @@ mirrors your phone** next to Android Auto — e.g. a second navigation app besid
 
 ---
 
+## Two modes
+
+At the top of the app you choose what shows on the car's screen:
+
+- **Android Auto** — runs **Google Android Auto** on the car display: Maps, media, the Assistant, with car
+  touch, audio, the microphone and the voice button — and, optionally, the **phone panel** (your phone's
+  screen in a side strip beside it). This is the **paid** feature — it needs a license.
+- **Mirror phone** — shows **your phone's own screen** on the car, with car touch, so you can use any phone
+  app on the car display. **Free during the 7‑day trial**, then needs a license.
+
+Both run over the car's **wireless CarPlay** connection — the app makes your phone look like a CarPlay "car",
+so the only thing you pick is what it shows once connected. Mirror is the default; switch at the top any time
+(before you press Start).
+
+---
+
 ## What you need
 
 - An Android phone running **Android 12 or newer**.
