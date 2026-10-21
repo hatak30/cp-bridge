@@ -2,14 +2,33 @@
 
 Turn an Android phone into a **wireless‑CarPlay "car"** so it can show **Android Auto** on your car's
 built‑in screen — Maps, media, the Assistant, with car touch, audio, microphone and the voice button.
-(It can also mirror the phone's screen instead.) No root required.
+(It can also mirror the phone's screen instead.) In Android Auto mode you can even add a **side panel that
+mirrors your phone** next to Android Auto — e.g. a second navigation app beside Maps. No root required.
 
 *(The app installs on your phone as "CarPlay Bridge".)*
 
-> **Supported cars — read this first.** This is confirmed working only on the **BMW i8 (NBT Evo head unit)**
-> over wireless CarPlay. Other BMW head units and other brands are **unverified** — they may or may not
-> work. There are no refunds for an unsupported car, so use the free trial to test it in *your* car before
-> buying a license.
+▶ **Watch the feature walkthrough:**
+
+[![Feature walkthrough](https://img.youtube.com/vi/lDGdC0X3Dlo/hqdefault.jpg)](https://www.youtube.com/watch?v=lDGdC0X3Dlo)
+
+> **Supported cars — read this first.** Confirmed working on the **BMW i8 with iDrive 6 (NBT Evo head unit)**
+> over wireless CarPlay. It **may** work on newer iDrive versions or other BMWs, but that is **untested**, and
+> other brands are unverified. There are no refunds for an unsupported car, so use the free trial to test it
+> in *your* car before buying a license.
+
+## Screens
+
+<p>
+  <img src="docs/01-home.png" width="230" alt="Home screen">
+  <img src="docs/02-cards.png" width="230" alt="Pairing and auto-start">
+  <img src="docs/03-bottom.png" width="230" alt="Phone panel and status">
+</p>
+
+- **Home** — pick **Android Auto** or **Mirror phone**, follow the connection steps (Bluetooth → Car Wi‑Fi →
+  CarPlay → Playing), and **Start / Stop**. The **License** card shows your license and the free trial.
+- **Pairing & Auto‑start** — the one‑time pairing steps and the optional **Auto‑start in the car** toggle.
+- **Phone panel & status** — the **Phone panel** (your phone's screen beside Android Auto) and the
+  "Android Auto is ready" check.
 
 ---
 
@@ -74,15 +93,21 @@ After this, the car reconnects by itself next time — you just press **Start**.
 
 ---
 
-## Free trial (mirroring)
+## Free trial — what you get for 7 days
 
-When you first install, **mirroring works free for 7 days** with no license. That's the best way to check
-compatibility: mirroring uses the exact same connection as Android Auto, so if mirroring comes up on your
-car, the paid Android Auto will work too. **Try the free part first** — there are no refunds for a car that
-turns out not to be supported.
+For the first **7 days after you install**, **Mirror mode is completely free** — no license needed. That
+covers the whole wireless‑CarPlay connection to your car:
 
-After 7 days, mirroring also needs a license. **Android Auto always needs a license** (it is not part of
-the trial).
+- Pairing with the car and the automatic **Wi‑Fi hand‑over**.
+- Your **phone's screen on the car display**, with **car touch** and **sound** through the car speakers.
+- The optional **Auto‑start in the car**.
+
+This is the real compatibility test: mirroring uses the **exact same connection as Android Auto**, so if
+mirroring comes up cleanly on your car, the paid Android Auto will work too. **Use the trial to confirm your
+car before buying** — there are no refunds for a car that turns out not to be supported.
+
+**What the trial does *not* include: Android Auto.** Android Auto needs a license from the start — it's the
+paid feature. After the 7 days, **Mirror mode also stops** until you activate a license.
 
 ## Get a license
 
@@ -134,8 +159,10 @@ will then start a session by itself when your car connects over Bluetooth.
 
 ## Options
 
-- **Phone panel** (Android Auto mode): show your phone's own screen in a side strip next to Android Auto
-  (e.g. a navigation app beside Maps). Off by default; needs screen‑capture permission and the touch service.
+- **Phone panel** (Android Auto mode): **augment Android Auto with a side strip that mirrors your phone** —
+  see a second app (e.g. another navigation app, a dashcam or OBD view) right next to Android Auto on the car
+  screen, and touch it there. Off by default; you set the split in the app. Needs screen‑capture permission
+  plus the "CarPlay Bridge car touch" accessibility service.
 - **Mirror mode**: show the phone's screen on the car instead of Android Auto. Needs the accessibility
   **"CarPlay Bridge car touch"** service (enable it in Android Settings; the app's button opens the page).
 
