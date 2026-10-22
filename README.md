@@ -52,6 +52,13 @@ At the top of the app you choose what shows on the car's screen — the switch h
 - **Android Auto** — runs **Google Android Auto** on the car display: Maps, media, the Assistant, with car
   touch, audio, the microphone and the voice button — and, optionally, the **phone panel** (your phone's
   screen in a side strip beside it). This is the **paid** feature — it needs a license.
+
+> **Phone calls stay on the phone.** The app bridges Android Auto's screen, media and voice (Maps, music,
+> the Assistant) to the car — but **it does not route phone calls through the car's speakers or
+> microphone.** During a call the audio and mic stay on the **phone itself**, exactly as if the app weren't
+> running. If you want calls on the car speakers, **also pair your phone to the car as an ordinary
+> Bluetooth hands‑free phone** (in the car's normal "add phone / Bluetooth" list, separately from this
+> app) — then the car handles calls over its own Bluetooth, the same way it does with any phone.
 - **Mirror phone** — shows **your phone's own screen** on the car, with car touch, so you can use any phone
   app on the car display. **Free during the 7‑day trial**, then needs a license.
 
@@ -226,6 +233,9 @@ will then start a session by itself when your car connects over Bluetooth.
   comes with it). If you cleared app data or reinstalled, request a fresh license for the new enrollment code.
 - **Screen stutters** — leave Bluetooth discoverability off during a drive (the app already does this once
   paired).
+- **Phone calls come out of the phone, not the car** — that's expected. The app does **not** carry calls to
+  the car's speakers/microphone; call audio and the mic stay on the phone. To get calls on the car, pair
+  your phone to the car as a normal **Bluetooth hands‑free phone** as well (see the note under *Two modes*).
 
 **Still stuck?** Ask on the **[Discord](https://discord.gg/WJVFjbyq3j)** — include your car model and what
 step it fails at.
