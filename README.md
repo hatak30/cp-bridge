@@ -53,6 +53,7 @@ At the top of the app you choose what shows on the car's screen — the switch h
   touch, audio, the microphone and the voice button — and, optionally, the **phone panel** (your phone's
   screen in a side strip beside it). This is the **paid** feature — it needs a license.
 
+> [!IMPORTANT]
 > **Phone calls stay on the phone.** The app bridges Android Auto's screen, media and voice (Maps, music,
 > the Assistant) to the car — but **it does not route phone calls through the car's speakers or
 > microphone.** During a call the audio and mic stay on the **phone itself**, exactly as if the app weren't
