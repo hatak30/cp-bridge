@@ -24,8 +24,8 @@ happy to help you get set up.
 
 > **Supported cars — read this first.** Confirmed working on the **BMW i8 with iDrive 6 (NBT Evo head unit)**
 > over wireless CarPlay. It **may** work on newer iDrive versions or other BMWs, but that is **untested**, and
-> other brands are unverified. There are no refunds for an unsupported car, so use the free trial to test it
-> in *your* car before buying a license.
+> other brands are unverified. There are no refunds for an unsupported car, so use the free (unlimited)
+> mirroring to test it in *your* car before buying an Android Auto license.
 
 ## Screens
 
@@ -36,7 +36,7 @@ happy to help you get set up.
 </p>
 
 - **Home** — pick **Android Auto** or **Mirror phone**, follow the connection steps (Bluetooth → Car Wi‑Fi →
-  CarPlay → Playing), and **Start / Stop**. The **License** card shows your license and the free trial.
+  CarPlay → Playing), and **Start / Stop**. The **License** card shows your Android Auto license status.
 - **Pairing & Auto‑start** — the one‑time pairing steps and the optional **Auto‑start in the car** toggle.
 - **Phone panel & status** — the **Phone panel** (your phone's screen beside Android Auto) and the
   "Android Auto is ready" check.
@@ -61,7 +61,7 @@ At the top of the app you choose what shows on the car's screen — the switch h
 > Bluetooth hands‑free phone** (in the car's normal "add phone / Bluetooth" list, separately from this
 > app) — then the car handles calls over its own Bluetooth, the same way it does with any phone.
 - **Mirror phone** — shows **your phone's own screen** on the car, with car touch, so you can use any phone
-  app on the car display. **Free during the 7‑day trial**, then needs a license.
+  app on the car display. **Free, with no time limit** — no license needed.
 
 Both run over the car's **wireless CarPlay** connection — the app makes your phone look like a CarPlay "car",
 so the only thing you pick is what it shows once connected. Mirror is the default; switch at the top any time
@@ -76,7 +76,8 @@ so the only thing you pick is what it shows once connected. Mirror is the defaul
 - The **Google Android Auto** app installed on the phone (from Play) — for Android Auto mode.
 - A per‑car **license** to unlock **Android Auto** (see *Get a license* below). The license also carries the
   head‑unit certificate Android Auto needs, so it's installed for you on Activate.
-- **Mirroring is free for the first 7 days** — enough to confirm the app works in your car before you buy.
+- **Mirroring is free, with no time limit** — enough to confirm the app works in your car before you buy
+  Android Auto.
 
 ---
 
@@ -130,25 +131,25 @@ After this, the car reconnects by itself next time — you just press **Start**.
 
 ---
 
-## Free trial — what you get for 7 days
+## Mirroring is free — no time limit
 
-For the first **7 days after you install**, **Mirror mode is completely free** — no license needed. That
-covers the whole wireless‑CarPlay connection to your car:
+**Mirror mode is completely free, for as long as you like** — no license needed. That covers the whole
+wireless‑CarPlay connection to your car:
 
 - Pairing with the car and the automatic **Wi‑Fi hand‑over**.
 - Your **phone's screen on the car display**, with **car touch** and **sound** through the car speakers.
 - The optional **Auto‑start in the car**.
 
-This is the real compatibility test: mirroring uses the **exact same connection as Android Auto**, so if
-mirroring comes up cleanly on your car, the paid Android Auto will work too. **Use the trial to confirm your
-car before buying** — there are no refunds for a car that turns out not to be supported.
+It's also the real compatibility test: mirroring uses the **exact same connection as Android Auto**, so if
+mirroring comes up cleanly on your car, the paid Android Auto will work too. **Try mirroring in your car
+first** — there are no refunds for a car that turns out not to be supported.
 
-**What the trial does *not* include: Android Auto.** Android Auto needs a license from the start — it's the
-paid feature. After the 7 days, **Mirror mode also stops** until you activate a license.
+**What free mirroring does *not* include: Android Auto.** Android Auto is the paid feature — it needs a
+per‑car license (see below). Mirroring stays free either way.
 
 ## Get a license
 
-A license unlocks **Android Auto** (and keeps mirroring after the trial). It is tied to **this phone and
+A license unlocks **Android Auto**. It is tied to **this phone and
 your car's serial** — it won't work on another phone or another car.
 
 1. **Connect to your car once** (steps above) so the app learns your car's serial.
@@ -167,7 +168,7 @@ it's stored only on your phone (its private key in the phone's secure hardware, 
 ## Drive: start a session
 
 1. Make sure **Wi‑Fi is on** (CarPlay carries the screen and sound over the car's Wi‑Fi).
-2. At the top, pick the mode: **Mirror phone** (free for the trial) or **Android Auto** (needs a license).
+2. At the top, pick the mode: **Mirror phone** (free) or **Android Auto** (needs a license).
    Mirror is the default.
 3. Press **Start**. The header shows progress: **Bluetooth → Car Wi‑Fi → CarPlay → Playing**. Tap
    **Connect** on the Wi‑Fi dialog when it appears.
