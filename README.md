@@ -238,6 +238,16 @@ will then start a session by itself when your car connects over Bluetooth.
 - **Phone calls come out of the phone, not the car** — that's expected. The app does **not** carry calls to
   the car's speakers/microphone; call audio and the mic stay on the phone. To get calls on the car, pair
   your phone to the car as a normal **Bluetooth hands‑free phone** as well (see the note under *Two modes*).
+- **Connection drops out / picture freezes on a weak signal** — the app keeps the phone's screen on and its
+  Wi‑Fi in high‑performance mode while connected, which helps. Keep the phone somewhere with a good signal to
+  the car (on the dash, not buried in a pocket), and keep Wi‑Fi on.
+
+### Sending us a log
+
+If we're helping you with a problem, a log makes it much faster to find. Scroll to the **Logs** card at the
+bottom of the app, turn **Save diagnostic logs** on, reproduce the issue once, then tap **Send logs by
+email** — it's pre‑addressed to us. Logs stay on your phone until you send them, and never leave it on their
+own.
 
 **Still stuck?** Ask on the **[Discord](https://discord.gg/WJVFjbyq3j)** — include your car model and what
 step it fails at.
