@@ -149,16 +149,20 @@ per‑car license (see below). Mirroring stays free either way.
 
 ## Get a license
 
-A license unlocks **Android Auto**. It is tied to **this phone and
-your car's serial** — it won't work on another phone or another car.
+Thank you for your interest in CarPlay Bridge! A license unlocks **Android Auto**. It is tied to
+**this phone and your car's serial** — it won't work on another phone or another car.
 
 1. **Connect to your car once** (steps above) so the app learns your car's serial.
-2. In the **License** card, tap **Request license by email**. Your email app opens, already addressed to
-   **carplaybridge@proton.me** with your enrollment code (`CPBE1-…`) in the message — just send it.
-   *(No email app? Tap **Copy enrollment code** and send the code to carplaybridge@proton.me yourself.)*
-3. You'll receive payment details and then your license — a longer code starting with `CPB2-…`.
-4. In the app's **License** card, paste it in and tap **Activate**. If the card already says *Licensed*,
+2. In the **License** card, tap **Copy enrollment code** to copy your code (`CPBE1-…`).
+3. **Donate $30** at **<https://ko-fi.com/retroracer>**. In the Ko‑fi message, include **your email
+   address** and the **enrollment code** you just copied.
+4. I'll email you your license — a longer code starting with `CPB2-…`.
+5. In the app's **License** card, paste it in and tap **Activate**. If the card already says *Licensed*,
    tap **Apply a different license** first, then paste and Activate.
+
+> [!IMPORTANT]
+> **Phone calls stay on your phone.** Even with Android Auto unlocked, phone calls keep using the
+> **phone's own microphone and speakers** — they are **not** routed through the car's speakers or mic.
 
 The Android Auto head‑unit certificate is carried in the license and installs automatically on Activate —
 it's stored only on your phone (its private key in the phone's secure hardware, never exported).
