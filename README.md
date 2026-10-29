@@ -152,10 +152,16 @@ per‑car license (see below). Mirroring stays free either way.
 Thank you for your interest in CarPlay Bridge! A license unlocks **Android Auto**. It is tied to
 **this phone and your car's serial** — it won't work on another phone or another car.
 
+**Two things are needed: your enrollment code (sent by email) _and_ the $30 donation.** The enrollment
+code is what lets me build a license for your exact phone + car, so I can't issue one without it — the
+donation alone isn't enough.
+
 1. **Connect to your car once** (steps above) so the app learns your car's serial.
-2. In the **License** card, tap **Copy enrollment code** to copy your code (`CPBE1-…`).
-3. **Donate $30** at **<https://ko-fi.com/retroracer>**. In the Ko‑fi message, include **your email
-   address** and the **enrollment code** you just copied.
+2. In the **License** card, tap **Request license by email**. Your email app opens, already addressed to
+   **carplaybridge@proton.me** with your enrollment code (`CPBE1-…`) in the message — just send it.
+   *(No email app? Tap **Copy enrollment code** and email the code to carplaybridge@proton.me yourself.)*
+3. **Donate $30** at **<https://ko-fi.com/retroracer>**, and in the Ko‑fi message put the **same email
+   address** you sent the code from, so I can match your payment to your enrollment code.
 4. I'll email you your license — a longer code starting with `CPB2-…`.
 5. In the app's **License** card, paste it in and tap **Activate**. If the card already says *Licensed*,
    tap **Apply a different license** first, then paste and Activate.
