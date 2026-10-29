@@ -22,6 +22,10 @@ happy to help you get set up.
 
 [![Feature walkthrough](https://img.youtube.com/vi/lDGdC0X3Dlo/hqdefault.jpg)](https://www.youtube.com/watch?v=lDGdC0X3Dlo)
 
+▶ **Auto‑start in the car & how phone calls work:**
+
+[![Auto-start and phone calls explained](https://img.youtube.com/vi/sEEXPgGW2sQ/hqdefault.jpg)](https://youtu.be/sEEXPgGW2sQ)
+
 > **Supported cars — read this first.** Confirmed working on the **BMW i8 with iDrive 6 (NBT Evo head unit)**
 > over wireless CarPlay. It **may** work on newer iDrive versions or other BMWs, but that is **untested**, and
 > other brands are unverified. There are no refunds for an unsupported car, so use the free (unlimited)
