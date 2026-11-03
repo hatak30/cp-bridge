@@ -26,6 +26,10 @@ happy to help you get set up.
 
 [![Auto-start and phone calls explained](https://img.youtube.com/vi/sEEXPgGW2sQ/hqdefault.jpg)](https://youtu.be/sEEXPgGW2sQ)
 
+▶ **Bluetooth pairing:**
+
+[![Bluetooth pairing](https://img.youtube.com/vi/syykp76S3js/hqdefault.jpg)](https://www.youtube.com/watch?v=syykp76S3js)
+
 > **Supported cars — read this first.** Confirmed working on the **BMW i8 with iDrive 6 (NBT Evo head unit)**
 > over wireless CarPlay. It **may** work on newer iDrive versions or other BMWs, but that is **untested**, and
 > other brands are unverified. There are no refunds for an unsupported car, so use the free (unlimited)
@@ -123,6 +127,8 @@ hide it — if the **Bluetooth address** card asks you to enter it, find it unde
 
 **Start the pairing from the car, not from the phone's Bluetooth list.** If the phone initiates it, the car
 treats it as an ordinary phone (music/calls only) and CarPlay never starts.
+
+▶ [Watch the Bluetooth pairing video](https://www.youtube.com/watch?v=syykp76S3js)
 
 1. **On the phone:** press **Start**. Tap **Allow** on the two Bluetooth pop‑ups (the app briefly turns
    Bluetooth off and back on so CarPlay is offered correctly). The phone becomes visible for ~60 seconds.
